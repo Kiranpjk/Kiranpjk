@@ -1,34 +1,33 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jaya Kiran
-===================================================================================================================================
+# Jaya Kiran Pybogula
 
-Web Developer | Full-Stack Enthusiast
--------------------------------------
+**UI/UX designer who also builds.** I take a product from user research to hi-fi screens in Figma, then build it in React.
 
-I’m a Computer Science student and aspiring full-stack developer with hands-on experience in building web applications using modern frontend and backend technologies. I enjoy turning ideas into real, usable products by designing clean user interfaces and building reliable backend services. I’m especially interested in scalable systems, APIs, and cloud-based deployments, and I’m constantly improving my skills through projects and real-world practice.
+M.Sc. Computer Science student at TU Clausthal, based in Jena, Germany. Looking for a Werkstudent role in UI/UX design.
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [Portfolio](http://port-liart-three.vercel.app/)
-* ✉️  You can contact me at [jayakiranpjk@gmail.com](mailto:jayakiranpjk@gmail.com)
-* 🚀  I'm currently working on [RapidGigs](http://rapid-gigs.vercel.app/)
-* 🧠  I'm currently learning NestJS
-* 👥  I'm looking to collaborate on Full-stack web applications Backend/API-focused projects Open-source or student-led tech projects
-* 💬  Ask me about I enjoy building things from scratch and learning by shipping real projects.
+[Portfolio](https://port-liart-three.vercel.app) · [LinkedIn](https://www.linkedin.com/in/jaya-kiran/) · [Email](mailto:jayakiranpjk@gmail.com)
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-</p>
+## Design work
 
-### Socials
+| Project | What it is | Links |
+|---|---|---|
+| **ClassComfort** (2025) | Classroom finder app. Survey with 20 students and faculty, 5 interviews, 2 personas, 7 hi-fi screens, heuristic evaluation with 5 personas. | [Case study](https://drive.google.com/file/d/1Y1COC9YGE2fZeVu6tXzsTukNr2VUfhYt/view?usp=sharing) · [Figma](https://www.figma.com/design/kN8ohGAWwoHidyJ760dDR5/classcomfort?node-id=1-2) |
+| **Smart Mirror UI** (2026) | Accessibility redesign of a smart mirror interface. 3 user groups, 5 screens, 50+ components. | [Case study](https://drive.google.com/file/d/1cjhyPZPotVeckCFbz6IyfUoXs4OQ4xRv/view?usp=sharing) · [Figma](https://www.figma.com/design/iVnKB92aNittO6JYo64Yhf/Smart-mirror-HCi?node-id=1-2) |
 
-<p align="left"> <a href="https://www.github.com/Kiranpjk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/jaya-kiran/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+## Built in code
 
-<b>My GitHub Stats</b>
+| Project | What it is | Stack |
+|---|---|---|
+| [RapidGigs](https://github.com/Kiranpjk/RapidGigs) | Video-first gig platform with real-time chat and a milestone payment service. Presented at ICICST 2026, NIT Jalandhar. | React, TypeScript, Node.js, MongoDB, Spring Boot |
+| [Crypto SEO Tracker](https://github.com/Kiranpjk/Crypto_Assignment-) | Server-rendered tracker for live crypto prices in INR. [Live](https://crypto-assignment-nu.vercel.app) | Next.js, TypeScript |
+| [T Group](https://github.com/Kiranpjk/T-Groups) | Company website for an agricultural exporter. [Live](https://t-groups.vercel.app) | Next.js, TypeScript |
+| [AutoConnect](https://github.com/Kiranpjk/AutoConnect) | Browser extension that logs into a campus Wi-Fi portal by itself. | Manifest V3, JavaScript |
+| [NextHood](https://github.com/Kiranpjk/nexthood) | Accommodation finder with location-based search. | Next.js, Firebase |
 
-<a href="http://www.github.com/Kiranpjk"><img src="https://github-readme-stats.vercel.app/api?username=Kiranpjk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Kiranpjk's GitHub stats" /></a>
+## Skills
 
-<a href="http://www.github.com/Kiranpjk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiranpjk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+- **UX:** user research, personas, user flows, information architecture, usability heuristics, accessibility
+- **UI:** wireframing, hi-fi design, component sets (Figma, FigJam)
+- **Front-end:** HTML/CSS, JavaScript, TypeScript, React, Next.js
+- **Also:** Node.js, Python, Java, SQL, Git
 
-<a href="https://github.com/Kiranpjk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiranpjk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
+English C1 (IELTS 7.0) · German A1, learning
