@@ -23,11 +23,25 @@ M.Sc. Computer Science student at TU Clausthal, based in Jena, Germany. Looking 
 | [AutoConnect](https://github.com/Kiranpjk/AutoConnect) | Browser extension that logs into a campus Wi-Fi portal by itself. | Manifest V3, JavaScript |
 | [NextHood](https://github.com/Kiranpjk/nexthood) | Accommodation finder with location-based search. | Next.js, Firebase |
 
+## DevOps & automation
+
+Every repo below has GitHub Actions CI (lint, tests, build), Docker images published to GHCR, and Dependabot.
+
+| Project | What the pipeline does |
+|---|---|
+| [jena-weather-anomalies](https://github.com/Kiranpjk/jena-weather-anomalies) | Python 3.10/3.12 test matrix, Docker image, weekly scheduled report deployed to GitHub Pages |
+| [RapidGigs](https://github.com/Kiranpjk/RapidGigs) | TypeScript type-check + tests, CodeQL security scanning, dependency review, docker-compose dev stack |
+| [TaskFlow](https://github.com/Kiranpjk/TaskFlow) | 23 API tests, backend + nginx frontend images, compose smoke test with healthchecks |
+| [Coupon-management](https://github.com/Kiranpjk/Coupon-management) | 58 tests at 98% line coverage (found and fixed 7 bugs), multi-stage non-root images |
+| [Health-Care](https://github.com/Kiranpjk/Health-Care) | 31 API tests, Postgres compose stack with schema init, end-to-end smoke test in CI |
+| [AutoConnect](https://github.com/Kiranpjk/AutoConnect) | Lint, unit tests, web-ext lint; tagged releases zip Chrome + Firefox builds automatically |
+
 ## Skills
 
 - **UX:** user research, personas, user flows, information architecture, usability heuristics, accessibility
 - **UI:** wireframing, hi-fi design, component sets (Figma, FigJam)
 - **Front-end:** HTML/CSS, JavaScript, TypeScript, React, Next.js
+- **DevOps:** Docker, docker-compose, GitHub Actions, GHCR, CodeQL, Dependabot, Linux
 - **Also:** Node.js, Python, Java, SQL, Git
 
 English C1 (IELTS 7.0) · German A1, learning
