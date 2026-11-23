@@ -28,6 +28,9 @@ M.Sc. Computer Science student at TU Clausthal, based in Jena, Germany. Looking 
 | [AutoConnect](https://github.com/Kiranpjk/AutoConnect) | Logs into a campus Wi-Fi portal by itself; credentials stay in local browser storage | Manifest V3, JavaScript |
 | [jena-weather-anomalies](https://github.com/Kiranpjk/jena-weather-anomalies) | Scheduled GitHub Actions job rebuilds the report every week and publishes it to GitHub Pages | GitHub Actions |
 | [T Group](https://github.com/Kiranpjk/T-Groups) | CI checks 104 internal links and blocks oversized images before deploy. [Live](https://t-groups.vercel.app) | Next.js, GitHub Actions |
+| [regio-delay-pipeline](https://github.com/Kiranpjk/regio-delay-pipeline) | Regional train delays from the DB API into DuckDB, with a punctuality report (demo uses synthetic data in the real API format) | Python, DuckDB |
+| [flaky-hunter](https://github.com/Kiranpjk/flaky-hunter) | Finds flaky tests across JUnit XML reports; also usable as a GitHub Action | Python, GitHub Actions |
+| [dticket-commute](https://github.com/Kiranpjk/dticket-commute) | Pre-departure check for Deutschlandticket regional-only commutes: OK / RISKY / BROKEN | Python |
 
 ## DevOps
 
@@ -42,12 +45,24 @@ Every repo below has GitHub Actions CI (lint, tests, build), Docker images publi
 | [jena-weather-anomalies](https://github.com/Kiranpjk/jena-weather-anomalies) | Python 3.10/3.12 test matrix, Docker image, Pages deploy |
 | [AutoConnect](https://github.com/Kiranpjk/AutoConnect) | Lint, unit tests, web-ext lint; tagged releases zip Chrome + Firefox builds automatically |
 
+### Tools I built
+
+| Project | What it does |
+|---|---|
+| [gha-pin-audit](https://github.com/Kiranpjk/gha-pin-audit) | Security linter for GitHub Actions workflows (unpinned actions and similar risks) |
+| [docker-janitor](https://github.com/Kiranpjk/docker-janitor) | Docker disk cleanup; dry run unless you pass `--apply` |
+| [certwatch](https://github.com/Kiranpjk/certwatch) | TLS certificate expiry checks with Slack and email alerts |
+| [cron-deadman](https://github.com/Kiranpjk/cron-deadman) | Heartbeat (dead man's switch) monitor for cron jobs, with Prometheus metrics |
+
+Each has tests, a Dockerfile, CI and a GHCR release workflow.
+
 ## Web apps
 
 | Project | What it is | Stack |
 |---|---|---|
 | [Crypto SEO Tracker](https://github.com/Kiranpjk/Crypto_Assignment-) | Server-rendered tracker for live crypto prices in INR. [Live](https://crypto-assignment-nu.vercel.app) | Next.js, TypeScript |
 | [T Group](https://github.com/Kiranpjk/T-Groups) | Company website for an agricultural exporter. [Live](https://t-groups.vercel.app) | Next.js, TypeScript |
+| [wg-alert-api](https://github.com/Kiranpjk/wg-alert-api) | Saved-search alerts for WG rooms (no scraping) | FastAPI, PostgreSQL |
 
 ## Skills
 
