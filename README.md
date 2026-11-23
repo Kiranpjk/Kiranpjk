@@ -6,6 +6,19 @@ M.Sc. Computer Science student at TU Clausthal, based in Jena, Germany. Looking 
 
 [Portfolio](https://port-liart-three.vercel.app) · [LinkedIn](https://www.linkedin.com/in/jaya-kiran/) · [Email](mailto:jayakiranpjk@gmail.com)
 
+## Featured project
+
+**[wg-alert-api](https://github.com/Kiranpjk/wg-alert-api)** ([live demo](https://kiranpjk.github.io/wg-alert-api/)): saved WG-room searches that show only new matches, with a React dashboard, an AI "paste an ad" extractor, and the DevOps around it.
+
+![WG Alert walkthrough](https://raw.githubusercontent.com/Kiranpjk/wg-alert-api/main/docs/media/demo.gif)
+
+| Area | What is in the repo |
+|---|---|
+| Backend | FastAPI, PostgreSQL, API-key auth on every route, atomic dedupe, 54 tests |
+| Frontend | React + TypeScript dashboard, light/dark, 55 tests |
+| AI | Claude extracts a listing draft from a pasted ad; contact details removed first, strict schema, human review |
+| DevOps | Docker Compose, nginx proxy, GitHub Actions CI, GHCR images, Kubernetes manifests, Terraform (AWS), Prometheus + Grafana. Kubernetes and Terraform are validated in CI, not deployed to a real cluster or account |
+
 ## Design work
 
 | Project | What it is | Links |
