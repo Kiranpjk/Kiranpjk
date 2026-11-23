@@ -19,6 +19,7 @@ M.Sc. Computer Science student at TU Clausthal, based in Jena, Germany. Looking 
 |---|---|---|
 | [RapidGigs](https://github.com/Kiranpjk/RapidGigs) | Scores job applicants 0–100 against the job description with Llama 3.1 (Cerebras); generates 30-second promo videos with multi-provider failover. Presented at ICICST 2026, NIT Jalandhar. [Live](https://rapid-gigs.vercel.app/) | React, TypeScript, Node.js, MongoDB, Spring Boot |
 | [NextHood](https://github.com/Kiranpjk/nexthood) | Gemini (Genkit) flows that rate neighborhoods against your preferences, plus a chat assistant | Next.js, Genkit, Firebase |
+| [llm-diff-review](https://github.com/Kiranpjk/llm-diff-review) | GitHub Action that sends a PR diff to Claude and posts one review comment; secrets are redacted first and `.env` files are never sent | Python (no dependencies), GitHub Actions |
 | [jena-weather-anomalies](https://github.com/Kiranpjk/jena-weather-anomalies) | Robust seasonal anomaly detection and forecast backtests on 17,544 hours of real Jena weather | Python, pandas |
 
 ## Automation
